@@ -1,0 +1,6 @@
+@Mission10_Thatcher_HostAddress = http://localhost:5231
+
+GET {{Mission10_Thatcher_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
